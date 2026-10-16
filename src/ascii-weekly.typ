@@ -275,7 +275,7 @@
 /// Closing slide with an ASCII horizon. Follows the deck palette;
 /// `dark: true`/`false` overrides.
 #let ending-slide(
-  title: [Thanks.],
+  title: [Thanks],
   kicker: "[ EOF ]",
   subtitle: [questions · comments · suggestions #h(6pt) → #h(6pt) Q&A],
   dark: auto,

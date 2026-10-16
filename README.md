@@ -72,7 +72,7 @@ Requirements: **Typst ≥ 0.15** (for the variable IBM Plex Sans) and Touying 0.
 | `section-slide[desc]` | Huge section number, title and a `====` rule |
 | `slide(kicker:, title:, crumb:, dark:, composer:)` | Standard content slide (`== heading` gives the title) |
 | `focus-slide(dark:)[...]` | A single statement |
-| `ending-slide(title:, subtitle:, dark:)` | `Thanks.` over an ASCII horizon |
+| `ending-slide(title:, subtitle:, dark:)` | `Thanks` over an ASCII horizon |
 
 Every slide follows the deck palette. Pass `dark: true` or `dark: false` to flip a single slide.
 
