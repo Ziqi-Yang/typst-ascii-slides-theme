@@ -4135,7 +4135,7 @@
       "x": 0,
       "y": 3840,
       "theme": {
-        "mode": "dark"
+        "mode": "light"
       },
       "descendants": {
         "OfOXF": {
@@ -6378,6 +6378,102 @@
         },
         "uSKku": {
           "content": "07 / 10"
+        }
+      }
+    },
+    {
+      "id": "YmqZH",
+      "type": "ref",
+      "ref": "cxWdS",
+      "name": "D10 · Thanks (dark)",
+      "x": 4160,
+      "y": 5120,
+      "theme": {
+        "mode": "dark"
+      },
+      "descendants": {
+        "OfOXF": {
+          "type": "frame",
+          "id": "uZ64S",
+          "x": 120,
+          "y": 140,
+          "name": "Body",
+          "width": 1680,
+          "height": 800,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "UChVg",
+              "x": 0,
+              "y": 470,
+              "name": "Ground",
+              "fill": "$faint",
+              "content": ".                            .                            .                            .                            .   \n                                                                                           --:::::----                  \n                                          :----:::::--                               ::----------===--:::--             \n                  .                  :::--===------==--::::--               .   -::::--====---==++==----===--:          \n       .    .                     --::--=====--===+===----===--::::----:::::--------===+=====+++++=====++==--::--       \n                               -------=++++====+++++=====++==-----===--:---====---==++++===++***++++++**++=======--:    \n                            --=----==+++++++++****++++++*++======++==---===+=====+++*+++++**##*******#**++++++++=--::-- \n--                       :--=======++***+++**###***+******+++++++++====+++++===++*****+**#####***######********+==--===-\n=--:::               :::--=======+*********#####***#####*********+++++****++++***##****################**####**+++++++=-\n==--------:::::-----::--==++===+**###***#################**#####**+***#***+***#####*#########################*******++==\n========------===----==+++++++**################################**######***########################################**++=\n+++++++==--======--==+++++++**#####################################################################################*****",
+              "lineHeight": 1.2,
+              "fontFamily": "$font-mono",
+              "fontSize": 23,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "LbbbZ",
+              "x": 0,
+              "y": 60,
+              "name": "Center",
+              "width": 1680,
+              "layout": "vertical",
+              "gap": 24,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "We6C9",
+                  "name": "Kicker",
+                  "fill": "$accent",
+                  "content": "[ EOF ]",
+                  "fontFamily": "$font-mono",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                  "letterSpacing": 1
+                },
+                {
+                  "type": "text",
+                  "id": "T3POZ",
+                  "name": "Title",
+                  "fill": "$ink",
+                  "content": "Thanks.",
+                  "lineHeight": 1,
+                  "fontFamily": "$font-serif",
+                  "fontSize": 160,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "g4CMRO",
+                  "name": "Sub",
+                  "fill": "$muted",
+                  "content": "questions · comments · suggestions  →  Q&A",
+                  "fontFamily": "$font-mono",
+                  "fontSize": 24,
+                  "fontWeight": "normal",
+                  "letterSpacing": 1
+                }
+              ]
+            }
+          ]
+        },
+        "PTwIU": {
+          "content": "~/eof"
+        },
+        "IDafw": {
+          "content": "■■■■■■■■■■■■■■■■■■■■"
+        },
+        "jB62u": {
+          "content": ""
+        },
+        "uSKku": {
+          "content": "10 / 10"
         }
       }
     }
