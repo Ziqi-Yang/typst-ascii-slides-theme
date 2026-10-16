@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key><string>ascii-weekly-light</string>
+  <key>settings</key>
+  <array>
+    <dict><key>settings</key><dict><key>foreground</key><string>#1C1B18</string></dict></dict>
+    <dict><key>scope</key><string>comment, punctuation.definition.comment</string>
+      <key>settings</key><dict><key>foreground</key><string>#5C574A</string><key>fontStyle</key><string>italic</string></dict></dict>
+    <dict><key>scope</key><string>keyword.control, keyword.other, keyword.declaration, storage, storage.type, keyword.operator.word, keyword.operator.logical</string>
+      <key>settings</key><dict><key>foreground</key><string>#1348DC</string></dict></dict>
+    <dict><key>scope</key><string>string, string.quoted, punctuation.definition.string</string>
+      <key>settings</key><dict><key>foreground</key><string>#2F7D4F</string></dict></dict>
+    <dict><key>scope</key><string>constant.numeric, constant.language, constant.other, support.constant</string>
+      <key>settings</key><dict><key>foreground</key><string>#B7791F</string></dict></dict>
+    <dict><key>scope</key><string>entity.name.function, support.function, entity.name.class</string>
+      <key>settings</key><dict><key>foreground</key><string>#1C1B18</string></dict></dict>
+  </array>
+</dict>
+</plist>

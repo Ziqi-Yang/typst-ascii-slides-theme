@@ -1,0 +1,4 @@
+out/
+/*.pdf
+template/*.pdf
+.DS_Store

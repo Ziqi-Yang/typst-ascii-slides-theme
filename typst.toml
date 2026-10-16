@@ -1,0 +1,18 @@
+[package]
+name = "ascii-weekly"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Ziqi Yang <https://github.com/Ziqi-Yang>"]
+license = "MIT"
+description = "Touying slides for weekly research reports: warm paper, IBM Plex and ASCII-terminal chrome."
+repository = "https://github.com/Ziqi-Yang/typst-ascii-slides-theme"
+keywords = ["slides", "presentation", "touying", "weekly report", "ascii", "research"]
+categories = ["presentation"]
+disciplines = []
+compiler = "0.15.0"
+exclude = ["design", "examples"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
