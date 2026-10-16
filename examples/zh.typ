@@ -150,4 +150,4 @@
   done: (([稀疏内核 + 单元测试], "已合并 #41"), ([DocVQA-long 4k/8k/16k 评测], "已记录")),
 )
 
-#ending-slide(title: [谢谢。], subtitle: [提问 · 意见 · 建议 #h(6pt) → #h(6pt) Q&A])
+#ending-slide(title: [谢谢], subtitle: [提问 · 意见 · 建议 #h(6pt) → #h(6pt) Q&A])
